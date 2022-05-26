@@ -1,6 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+<<<<<<< HEAD
 
 /* @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap'); */
 /* @import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400;500;600;700&display=swap'); */
@@ -570,3 +571,5 @@ input:checked + .slider:before {
   border-radius: 20px;
   border: 1px solid #ffc8c80f;
 } */
+=======
+>>>>>>> 59f264ed8fc767da8359190209407a6cd9d52635
